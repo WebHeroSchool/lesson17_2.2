@@ -57,6 +57,9 @@
 }
 
  @media screen and (max-width: 600px) {
+     .wrap__title {
+       font-size: 20px;
+     }
      .nav {
          position: relative;
          min-height: 40px;
